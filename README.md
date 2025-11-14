@@ -1,6 +1,6 @@
 # 📘 README.md -- Laboratorio CRUD con Fetch + PHP OOP + MySQL
 
-**Estudiante:** William Concepción --- Grupo 1SF131\
+**Estudiante:** William Concepción, Alex Perez --- Grupo 1SF131\
 **Materia:** Ingeniería Web\
 **Instructor:** Ing. Irina Fong\
 **Fecha:** II Semestre 2025
